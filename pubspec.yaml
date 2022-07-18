@@ -1,0 +1,118 @@
+name: listar
+description: wem2017.github.io
+version: 1.1.5+54
+environment:
+  sdk: ">=2.14.4 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: 1.0.4
+  firebase_core: 1.14.0
+  firebase_analytics: 9.1.3
+  firebase_messaging: 11.2.12
+  shared_preferences: 2.0.13
+  intl: 0.17.0
+  bloc: 8.0.3
+  url_launcher: 6.0.20
+  flutter_bloc: 8.0.1
+  device_info: 2.0.3
+  share: 2.0.4
+  dio: 4.0.6
+  cached_network_image: 3.2.0
+  flutter_swiper_null_safety: 1.0.2
+  shimmer: 2.0.0
+  flutter_slidable: 1.2.0
+  image_picker: 0.8.4+11
+  google_maps_flutter: 2.1.3
+  photo_view: 0.13.0
+  intro_views_flutter: 3.2.0
+  rxdart: 0.27.3
+  font_awesome_flutter: 10.1.0
+  flutter_rating_bar: 4.0.0
+  qr_flutter: 4.0.0
+  qr_code_scanner: 0.7.0
+  dotted_border: 2.0.0+2
+  animations: 2.0.2
+  flutter_colorpicker: 1.0.3
+  flutter_svprogresshud: 1.0.0
+  webview_flutter: 3.0.1
+  showcaseview: 1.1.5
+  google_mobile_ads: 1.2.0
+  package_info_plus: 1.4.0
+
+flutter:
+  assets:
+    - assets/images/
+    - assets/locale/
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-Bold.ttf
+        - asset: assets/fonts/OpenSans-BoldItalic.ttf
+        - asset: assets/fonts/OpenSans-ExtraBold.ttf
+        - asset: assets/fonts/OpenSans-ExtraBoldItalic.ttf
+        - asset: assets/fonts/OpenSans-Italic.ttf
+        - asset: assets/fonts/OpenSans-Light.ttf
+        - asset: assets/fonts/OpenSans-LightItalic.ttf
+        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-SemiBold.ttf
+        - asset: assets/fonts/OpenSans-SemiBoldItalic.ttf
+    - family: ProximaNova
+      fonts:
+        - asset: assets/fonts/ProximaNova-Black.otf
+        - asset: assets/fonts/ProximaNova-Bold.otf
+        - asset: assets/fonts/ProximaNova-Extrabld.otf
+        - asset: assets/fonts/ProximaNova-Regular.otf
+        - asset: assets/fonts/ProximaNovaT-Thin.otf
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway-Black.ttf
+        - asset: assets/fonts/Raleway-BlackItalic.ttf
+        - asset: assets/fonts/Raleway-Bold.ttf
+        - asset: assets/fonts/Raleway-BoldItalic.ttf
+        - asset: assets/fonts/Raleway-ExtraBold.ttf
+        - asset: assets/fonts/Raleway-ExtraBoldItalic.ttf
+        - asset: assets/fonts/Raleway-ExtraLight.ttf
+        - asset: assets/fonts/Raleway-ExtraLightItalic.ttf
+        - asset: assets/fonts/Raleway-Italic.ttf
+        - asset: assets/fonts/Raleway-Light.ttf
+        - asset: assets/fonts/Raleway-LightItalic.ttf
+        - asset: assets/fonts/Raleway-Medium.ttf
+        - asset: assets/fonts/Raleway-MediumItalic.ttf
+        - asset: assets/fonts/Raleway-Regular.ttf
+        - asset: assets/fonts/Raleway-SemiBold.ttf
+        - asset: assets/fonts/Raleway-SemiBoldItalic.ttf
+        - asset: assets/fonts/Raleway-Thin.ttf
+        - asset: assets/fonts/Raleway-ThinItalic.ttf
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Black.ttf
+        - asset: assets/fonts/Roboto-BlackItalic.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+        - asset: assets/fonts/Roboto-BoldItalic.ttf
+        - asset: assets/fonts/Roboto-Italic.ttf
+        - asset: assets/fonts/Roboto-Light.ttf
+        - asset: assets/fonts/Roboto-LightItalic.ttf
+        - asset: assets/fonts/Roboto-Medium.ttf
+        - asset: assets/fonts/Roboto-MediumItalic.ttf
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Thin.ttf
+        - asset: assets/fonts/Roboto-ThinItalic.ttf
+    - family: Merriweather
+      fonts:
+        - asset: assets/fonts/Merriweather-Black.ttf
+        - asset: assets/fonts/Merriweather-BlackItalic.ttf
+        - asset: assets/fonts/Merriweather-Bold.ttf
+        - asset: assets/fonts/Merriweather-BoldItalic.ttf
+        - asset: assets/fonts/Merriweather-Italic.ttf
+        - asset: assets/fonts/Merriweather-Light.ttf
+        - asset: assets/fonts/Merriweather-LightItalic.ttf
+        - asset: assets/fonts/Merriweather-Regular.ttf
+  uses-material-design: true
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: 1.0.4

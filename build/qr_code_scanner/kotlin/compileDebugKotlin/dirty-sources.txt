@@ -1,0 +1,5 @@
+C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\qr_code_scanner-0.7.0\android\src\main\kotlin\net\touchcapture\qr\flutterqr\Shared.kt
+C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\qr_code_scanner-0.7.0\android\src\main\kotlin\net\touchcapture\qr\flutterqr\QRView.kt
+C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\qr_code_scanner-0.7.0\android\src\main\kotlin\net\touchcapture\qr\flutterqr\QRViewFactory.kt
+C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\qr_code_scanner-0.7.0\android\src\main\kotlin\net\touchcapture\qr\flutterqr\CustomFramingRectBarcodeView.kt
+C:\src\flutter\.pub-cache\hosted\pub.dartlang.org\qr_code_scanner-0.7.0\android\src\main\kotlin\net\touchcapture\qr\flutterqr\FlutterQrPlugin.kt

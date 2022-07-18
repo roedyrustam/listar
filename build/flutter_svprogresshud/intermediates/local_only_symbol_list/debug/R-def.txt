@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+anim svprogresshud_bg_fade_in
+anim svprogresshud_bg_fade_out
+anim svprogresshud_hudview_fade_in
+anim svprogresshud_hudview_fade_out
+drawable svprogresshud_error
+drawable svprogresshud_info
+drawable svprogresshud_spinning
+drawable svprogresshud_success
+id backgroundGradientLayer
+id backgroundLayer
+id hud_layout
+id hud_view
+id imageContainer
+id statusLabel
+layout svprogresshud_layout
